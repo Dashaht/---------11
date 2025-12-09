@@ -466,7 +466,7 @@ function init() {
             id: 1,
             title: 'Звездная ночь',
             category: 'Живопись',
-            imageUrl: 'Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg',
+            imageUrl: 'images/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg',
             description: 'Знаменитая картина Винсента Ван Гога, написанная в 1889 году.',
             date: '02.12.2025',
             isFavorite: true
@@ -475,7 +475,7 @@ function init() {
             id: 2,
             title: 'Горный пейзаж',
             category: 'Фотография',
-            imageUrl: 'gornyiy-peiyzag-kartina-maslom-70x50.jpg',
+            imageUrl: 'images/gornyiy-peiyzag-kartina-maslom-70x50.jpg',
             description: 'Фотография горного хребта на закате.',
             date: '02.12.2025',
             isFavorite: false
@@ -484,7 +484,7 @@ function init() {
             id: 3,
             title: 'Античная ваза',
             category: 'Археология',
-            imageUrl: 'images.jpg',
+            imageUrl: 'images/images.jpg',
             description: 'Древнегреческая керамическая ваза V века до н.э.',
             date: '02.12.2025',
             isFavorite: true
@@ -493,7 +493,7 @@ function init() {
             id: 4,
             title: 'Цифровая абстракция',
             category: 'Дизайн',
-            imageUrl: 'sef.jpg',
+            imageUrl: 'images/sef.jpg',
             description: 'Современная цифровая абстрактная композиция.',
             date: '02.12.2025',
             isFavorite: false
